@@ -1,0 +1,10 @@
+C:\Users\Memoli\source\repos\JobDependency\JobDependency\bin\Debug\JobDependency.exe.config
+C:\Users\Memoli\source\repos\JobDependency\JobDependency\bin\Debug\JobDependency.exe
+C:\Users\Memoli\source\repos\JobDependency\JobDependency\bin\Debug\JobDependency.pdb
+C:\Users\Memoli\source\repos\JobDependency\JobDependency\obj\Debug\JobDependency.csprojAssemblyReference.cache
+C:\Users\Memoli\source\repos\JobDependency\JobDependency\obj\Debug\JobDependency.Form1.resources
+C:\Users\Memoli\source\repos\JobDependency\JobDependency\obj\Debug\JobDependency.Properties.Resources.resources
+C:\Users\Memoli\source\repos\JobDependency\JobDependency\obj\Debug\JobDependency.csproj.GenerateResource.cache
+C:\Users\Memoli\source\repos\JobDependency\JobDependency\obj\Debug\JobDependency.csproj.CoreCompileInputs.cache
+C:\Users\Memoli\source\repos\JobDependency\JobDependency\obj\Debug\JobDependency.exe
+C:\Users\Memoli\source\repos\JobDependency\JobDependency\obj\Debug\JobDependency.pdb
